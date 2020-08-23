@@ -1,2 +1,2 @@
 # meeting-face-recog
-A simple absent page using face recognition
+A simple absent page using face recognition.
